@@ -1,9 +1,9 @@
-ofxImGuiTextEditor Clone of the (https://gitlab.artificiel.org/ofxaddons/ofxImGuiTextEditor)
+ofxImGuiTextEditor
 ==================
 
 Introduction
 ------------
-This addons wraps the imgui TextEditor in an OF-compatible frame.
+This addons wraps the imgui TextEditor in an OF-compatible frame.  Clone of the (https://gitlab.artificiel.org/ofxaddons/ofxImGuiTextEditor)
 
 License
 -------
