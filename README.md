@@ -1,4 +1,4 @@
-ofxImGuiTextEditor
+ofxImGuiTextEditor Clone of the (https://gitlab.artificiel.org/ofxaddons/ofxImGuiTextEditor)
 ==================
 
 Introduction
